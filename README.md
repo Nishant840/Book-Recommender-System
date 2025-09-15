@@ -37,3 +37,35 @@ Here’s how the app looks:
 
 2. **Collaborative Filtering**:  
    Based on the user’s selected book, the system finds similar users and recommends books they liked. This ensures personalized and relevant suggestions.
+
+## Installation (For Local Setup)
+
+1. Clone the repository:
+
+git clone https://github.com/Nishant840/Book-Recommender-System.git
+cd Book-Recommender-System
+
+2. Create a virtual environment:
+
+python -m venv venv
+
+3. Activate the virtual environment:
+
+# On Linux / macOS
+source venv/bin/activate
+
+# On Windows
+venv\Scripts\activate
+
+4. Install dependencies:
+
+pip install -r requirements.txt
+
+5. Run the app:
+
+python app.py
+
+6. Open your browser at:
+
+http://127.0.0.1:5000/
+
