@@ -17,7 +17,8 @@ A web-based book recommendation system that helps users discover books based on 
 ## Demo
 
 Here’s how the app looks:
-
+!(demo/demo1.jpg)
+!(demo/demo2.jpg)
 ---
 
 ## Technologies Used
@@ -60,3 +61,19 @@ pip install -r requirements.txt
 # Run app
 python app.py
 
+
+## License
+MIT License.
+
+## Acknowledgements
+
+- **Dataset**: [Kaggle - Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset) (by Arash NIC)  
+- **Libraries / Tools**: scikit-learn, pandas, numpy, Flask, Jinja2, HTML/CSS  
+- **Deployment**: Render (using Flask and Gunicorn)  
+- **Special Thanks**: Open-source contributors and the Kaggle community for datasets and inspiration
+
+## Author
+
+Nishant Kumar  
+IIIT Bhopal • SDE/ML Enthusiast  
+https://github.com/Nishant840
