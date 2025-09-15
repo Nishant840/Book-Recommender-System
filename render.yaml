@@ -1,13 +1,13 @@
 services:
   - type: web
-    name: book-recommender-app
+    name: book-recommender
     env: python
     buildCommand: |
-      pyenv install 3.11.9 -s
-      pyenv global 3.11.9
+      pyenv install 3.10.13 -s
+      pyenv global 3.10.13
       pip install --upgrade pip
       pip install -r requirements.txt
-    startCommand: python app.py
+    startCommand: gunicorn app:app
     envVars:
       - key: PYTHON_VERSION
-        value: 3.11.9
+        value: 3.10.13
