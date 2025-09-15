@@ -5,7 +5,7 @@ A web-based book recommendation system that helps users discover books based on 
 [🔗 Try it live!](https://book-recommender-system-ktwt.onrender.com/)
 
 ---
-
+ 
 ## Features
 
 - **Popularity-Based Recommender**: Shows the top 50 books based on ratings and popularity.  
@@ -40,32 +40,23 @@ Here’s how the app looks:
 
 ## Installation (For Local Setup)
 
-1. Clone the repository:
 ```bash
-   git clone https://github.com/Nishant840/Book-Recommender-System.git
-   cd Book-Recommender-System
+# Clone repo
+git clone https://github.com/Nishant840/Book-Recommender-System.git
+cd Book-Recommender-System
 
-2. Create a virtual environment:
-
+# Create virtual environment
 python -m venv venv
 
-3. Activate the virtual environment:
-
-# On Linux / macOS
+# Activate (Linux/macOS)
 source venv/bin/activate
 
-# On Windows
+# Activate (Windows)
 venv\Scripts\activate
 
-4. Install dependencies:
-
+# Install dependencies
 pip install -r requirements.txt
 
-5. Run the app:
-
+# Run app
 python app.py
-
-6. Open your browser at:
-
-http://127.0.0.1:5000/
 
