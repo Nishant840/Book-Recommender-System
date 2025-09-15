@@ -41,9 +41,9 @@ Here’s how the app looks:
 ## Installation (For Local Setup)
 
 1. Clone the repository:
-
-git clone https://github.com/Nishant840/Book-Recommender-System.git
-cd Book-Recommender-System
+```bash
+   git clone https://github.com/Nishant840/Book-Recommender-System.git
+   cd Book-Recommender-System
 
 2. Create a virtual environment:
 
