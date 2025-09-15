@@ -17,8 +17,8 @@ A web-based book recommendation system that helps users discover books based on 
 ## Demo
 
 Here’s how the app looks:
-!(demo/demo1.jpg)
-!(demo/demo2.jpg)
+![Demo 1](demo/demo1.jpg)  
+![Demo 2](demo/demo2.jpg)
 ---
 
 ## Technologies Used
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 # Run app
 python app.py
-
+```
 
 ## License
 MIT License.
