@@ -2,7 +2,7 @@
 
 A web-based book recommendation system that helps users discover books based on popularity and personalized suggestions. Built with **Flask**, this project combines **popularity-based recommendations** and **collaborative filtering** to provide users with the best book recommendations.
 
-[🔗 Try it live!](https://book-recommender-system-ktwt.onrender.com/recommendation)
+[🔗 Try it live!](https://book-recommender-system-ktwt.onrender.com/)
 
 ---
 
