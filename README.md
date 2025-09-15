@@ -17,8 +17,8 @@ A web-based book recommendation system that helps users discover books based on 
 ## Demo
 
 Here’s how the app looks:
-![Demo 1](demo/demo1.jpg)  
-![Demo 2](demo/demo2.jpg)
+![Demo 1](demo/demo1.png)  
+![Demo 2](demo/demo2.png)
 ---
 
 ## Technologies Used
